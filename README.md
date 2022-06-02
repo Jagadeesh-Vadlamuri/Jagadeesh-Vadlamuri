@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **jagadeesh.jacky1001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QXn05e4-n4C6fwP9W0DCFcfdcs5MYjym/view](https://drive.google.com/file/d/1QXn05e4-n4C6fwP9W0DCFcfdcs5MYjym/view)
+- 📄 Know about my experiences here - My Resume - [https://drive.google.com/file/d/1dezAKeXVOED7O2RFhC1CLzArQUs3n_Z4/view](https://drive.google.com/file/d/1dezAKeXVOED7O2RFhC1CLzArQUs3n_Z4/view)
+
+- 📄 My Portfolio - https://jagadeesh-vadlamuri-portfolio.netlify.app/
 
 - ⚡ Fun fact **I am an ambivert and I connect with people fast**
 
