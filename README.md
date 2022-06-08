@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences here - My Resume - [https://drive.google.com/file/d/1bEnqc2FIT1OZnpgoOI4cR_EsfypfxWE9/view](https://drive.google.com/file/d/1bEnqc2FIT1OZnpgoOI4cR_EsfypfxWE9/view)
 
-- 📄 My Portfolio - https://jagadeesh-vadlamuri-portfolio1.netlify.app/
+- 📄 My Portfolio - https://jagadeesh-vadlamuri-portfolio11.netlify.app/
 
 - ⚡ Fun fact **I am an ambivert and I connect with people fast**
 
