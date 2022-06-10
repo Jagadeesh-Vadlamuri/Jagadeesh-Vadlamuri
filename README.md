@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jagadeesh.jacky1001@gmail.com**
 
-- 📄 Know about my experiences here - My Resume - [https://drive.google.com/file/d/1bEnqc2FIT1OZnpgoOI4cR_EsfypfxWE9/view](https://drive.google.com/file/d/1bEnqc2FIT1OZnpgoOI4cR_EsfypfxWE9/view)
+- 📄 Know about my experiences here - My Resume - [https://drive.google.com/file/d/1zHUj9HnHyBaqCcwBGKclTNqzlxVd_Y46/view?usp=sharing](https://drive.google.com/file/d/1zHUj9HnHyBaqCcwBGKclTNqzlxVd_Y46/view?usp=sharing)
 
 - 📄 My Portfolio - https://jagadeesh-vadlamuri-portfolio11.netlify.app/
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jagadeesh vadlamuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeesh vadlamuri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/factogram telugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="factogram telugu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jagadeesh-vadlamuri-40675620a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeesh vadlamuri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4OZsXpxuHqsndPXX1PLH-Q" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="factogram telugu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
