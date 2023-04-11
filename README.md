@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jagadeesh.jacky1001@gmail.com**
 
-- 📄 Know about my experiences here - My Resume - [https://drive.google.com/file/d/1zHUj9HnHyBaqCcwBGKclTNqzlxVd_Y46/view?usp=sharing](https://drive.google.com/file/d/1zHUj9HnHyBaqCcwBGKclTNqzlxVd_Y46/view?usp=sharing)
+- 📄 Know about my experiences here - My Resume - [https://drive.google.com/file/d/1zHUj9HnHyBaqCcwBGKclTNqzlxVd_Y46/view?usp=sharing](https://drive.google.com/file/d/1bEnqc2FIT1OZnpgoOI4cR_EsfypfxWE9/view?usp=share_link)
 
 - 📄 My Portfolio - https://jagadeesh-vadlamuri-portfolio11.netlify.app/
 
